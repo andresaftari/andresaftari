@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/andresaftari"><img width="80%" src="./assets/title_helloall.png" /></a></p>
+<p align="center"><a href="https://github.com/andresaftari"><img width="50%" src="./assets/title_helloall.png" /></a></p>
 
 <br />
 
