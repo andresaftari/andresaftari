@@ -38,12 +38,14 @@ Interested in native & Flutter mobile development, and programming algorithm ana
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
 
-<br />
+<!-- <br />
 <br />
 
 <a href="https://instagram.com/andresaftari">
-  <img align="right" alt="Andre Saftari | Instagram" width="21px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/master/assets/instagram.svg" />
+  <img align="right" alt="Andre Saftari | Instagram" width="21px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/d89f3486ab9ab932deb8d7bb573ce28b60416789/assets/Instagram.svg?token=ANUX4U3EIZCZ5SNCIHHULI3BQJBBA" />
 </a>
+
 <a href="https://andresaftari.medium.com/">
-  <img align="right" alt="Andre Saftari | Medium" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/master/assets/medium.svg" />
-</a>
+  <img align="right" alt="Andre Saftari | Medium" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/d89f3486ab9ab932deb8d7bb573ce28b60416789/assets/medium.svg?token=ANUX4U6UWEVMIOW5627ETKLBQJA5K" />
+</a> -->
+
