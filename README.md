@@ -44,14 +44,14 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 **Connect to Me**
 
 <a href="https://instagram.com/andresaftari">
-  <img align="right" alt="Andre Saftari | Instagram" width="21px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/instagram.svg" />
+  <img style="margin-top: 24px;"align="left" alt="Andre Saftari | Instagram" width="21px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/instagram.svg" />
 </a>
 
 <a href="https://andresaftari.medium.com/">
-  <img align="right" alt="Andre Saftari | Medium" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/medium.svg" />
+  <img align="left" alt="Andre Saftari | Medium" width="50px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/medium.svg" />
 </a>
 
 <a href="https://linkedin.com/in/prasidya-pramadresana-saftari/">
-  <img align="right" alt="Andre Saftari | LinkedIn" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/linkedin.svg" />
+  <img align="left" alt="Andre Saftari | LinkedIn" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/linkedin.svg" />
 </a>
 
