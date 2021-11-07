@@ -17,13 +17,21 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 
 
-**Languages and Tools:**  
+**Languages I Use**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/python.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/andresaftari/andresaftari/bb22bf659e5b76b65e3c0321c282d5c8e524cd79/assets/java.svg"></code>
 
+<br />
+<br />
+
+**My Tools**
+
+<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_vscode.png?raw=true"></code>
+<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_android.png?raw=true"></code>
+<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_intellij.png?raw=true"></code>
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
