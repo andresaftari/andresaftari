@@ -15,7 +15,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 - 💬 Ask me about anything [here](https://github.com/andresaftari/andresaftari/issues)
 
-
+<br />
 
 **Languages I Use**  
 
@@ -25,7 +25,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 <code><img height="20" src="https://raw.githubusercontent.com/andresaftari/andresaftari/bb22bf659e5b76b65e3c0321c282d5c8e524cd79/assets/java.svg"></code>
 
 <br />
-<br />
+
 
 **My Tools**
 
