@@ -9,7 +9,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 **About me**
 
-- 💼 Currently on Internship at **Information Technology Center Directorate**
+- 💼 Currently on Internship at **Information Technology Center Directorate - Telkom University**
 
 - 📈 Focus on creating better CV and Portfoz
 
