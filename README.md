@@ -1,64 +1,55 @@
-<p align="center"><img width="30%" src="./assets/welcome_logo.png" /></p>
-
+<div><p align="center"><img width="30%" src="./assets/welcome_logo.png" /></p></div>
 <br />
 
-Name is Prasidya Pramadresana Saftari, but just call me Andre. 
-Interested in native & Flutter mobile development, and programming algorithm analyst
-
+#### Hi and welcome,
+Name is Prasidya Pramadresana Saftari, but just call me Andre or Andzzz. 
+Interested in native & Flutter mobile development, and programming algorithm analyst.
 <br />
 
-**About me**
+#### 🖐 About me 
 
-- 💼 Currently on Internship at **Information Technology Center Directorate - Telkom University**
+* 💼 Currently on Internship at **Information Technology Center Directorate - Telkom University**
 
-- 📈 Focus on creating better CV and Portfoz
+* 📈 Focus on creating better CV and Portfoz
 
-- ❤️ Love to explore **Internet of Things, Kotlin and Flutter things, and Programming.** 
-
-- 💬 Ask me about anything [here](https://github.com/andresaftari/andresaftari/issues)
-
+* ❤️ Love to explore **Internet of Things, Kotlin and Flutter things, and Programming.** 
 <br />
 
-**Languages I Use**  
+#### 🔑 Language & Frameworks Used 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/python.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/andresaftari/andresaftari/bb22bf659e5b76b65e3c0321c282d5c8e524cd79/assets/java.svg"></code>
-
-**My Tools**
-
-<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_vscode.png?raw=true"></code>
-<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_android.png?raw=true"></code>
-<code><img height="20" src="https://github.com/andresaftari/andresaftari/blob/master/assets/logo_intellij.png?raw=true"></code>
-
-<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a> -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+</div>
 
 <br />
 <br />
 
-**Connect to Me**
+#### 📈 Github Stats 
 
-<a href="https://instagram.com/andresaftari">
-  <img style="margin-top: 24px;"align="left" alt="Andre Saftari | Instagram" width="21px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/instagram.svg" />
-</a>
+![My Stats](https://github-readme-stats.vercel.app/api?username=andresaftari&show_icons=true&layout=compact)
 
-<a href="https://andresaftari.medium.com/">
-  <img align="left" alt="Andre Saftari | Medium" width="50px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/medium.svg" />
-</a>
+<br />
 
-<a href="https://linkedin.com/in/prasidya-pramadresana-saftari/">
-  <img align="left" alt="Andre Saftari | LinkedIn" width="20px" src="https://raw.githubusercontent.com/andresaftari/andresaftari/e03aca5547d397115c557e0357d1eb1242e586c8/assets/linkedin.svg" />
-</a>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaftari&layout=compact)
 
+<br />
+
+#### ☎️ Connect to Me 
+
+<div>
+  <a href="https://linkedin.com/in/prasidya-pramadresana-saftari/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp; 
+  </a>
+  <a href="https://instagram.com/andresaftari/">
+    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/instagram.svg" title="Instagram" alt="Instagram" width="30" height="30"/>&nbsp; 
+  </a>
+  <a href="https://medium.com/andresaftari/">
+    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/medium.svg" title="Medium" alt="Medium" width="30" height="30"/>&nbsp; 
+  </a>
+</div>
