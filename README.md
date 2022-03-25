@@ -49,7 +49,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
   <a href="https://instagram.com/andresaftari/">
     <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/instagram.svg" title="Instagram" alt="Instagram" width="30" height="30"/>&nbsp; 
   </a>
-  <a href="https://medium.com/andresaftari/">
+  <a href="https://andresaftari.medium.com/">
     <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/medium.svg" title="Medium" alt="Medium" width="30" height="30"/>&nbsp; 
   </a>
 </div>
