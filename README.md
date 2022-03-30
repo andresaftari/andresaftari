@@ -24,7 +24,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="30" height="30"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
 </div>
 
 <br />
