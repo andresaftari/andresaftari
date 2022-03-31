@@ -32,7 +32,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 #### 📈 Github Stats 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=andresaftari&show_icons=true&layout=compact)
+![My Best Stats](https://github-readme-stats.vercel.app/api?username=andresaftari&show_icons=true&layout=compact)
 
 <br />
 
