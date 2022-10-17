@@ -2,7 +2,7 @@
 <br />
 
 #### Hi and welcome,
-Name is Prasidya Pramadresana Saftari, but just call me Andre or Andzz. 
+Name is Prasidya Pramadresana Saftari, but just call me Andre or Andzzz. 
 Interested in native & Flutter mobile development, and programming algorithm analyst.
 <br />
 
