@@ -32,11 +32,11 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 #### 📈 Github Stats 
 
-![My Best Stats](https://github-readme-stats.vercel.app/api?username=andresaftari&show_icons=true&layout=compact)
+![My Best Stats](https://github-readme-stats.vercel.app/api?username=andresaftari&show_icons=true&layout=compact&theme=tokyonight)
 
 <br />
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaftari&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaftari&layout=compact&theme=tokyonight)
 
 <br />
 
