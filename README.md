@@ -12,7 +12,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 * 📈 Focus on creating better CV and Portfoz
 
-* ❤️ Love to explore **Internet of Things, Kotlin and Flutter things, and Programming.** 
+* ❤️ Love to explore **Mobile Development world (Natives & Multiplatform), IoT, ML, and of course competitive programming.** 
 <br />
 
 #### 🔑 Language & Frameworks Used 
