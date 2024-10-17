@@ -8,7 +8,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 #### 🖐 About me 
 
-* 💼 Multiplatform front-end developer at **Information Technology Center Directorate - Telkom University**
+* 💼 Multiplatform multiplatform developer at **Cerulean Studio (part of Going Macro SRL)**
 
 * 📈 Focus on creating better CV and Portfoz
 
