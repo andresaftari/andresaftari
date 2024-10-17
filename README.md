@@ -8,7 +8,7 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 #### 🖐 About me 
 
-* 💼 Multiplatform multiplatform developer at **Cerulean Studio (part of Going Macro SRL)**
+* 💼 Multiplatform multiplatform developer at **[Cerulean Studio (part of Going Macro SRL)](http://goingmacro.com/)**
 
 * 📈 Focus on creating better CV and Portfoz
 
