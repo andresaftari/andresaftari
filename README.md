@@ -42,12 +42,12 @@ Interested in native & Flutter mobile development, and programming algorithm ana
 
 <div>
   <a href="https://linkedin.com/in/prasidya-pramadresana-saftari/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/andresaftari/">
-    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/instagram.svg" title="Instagram" alt="Instagram" width="30" height="30"/>&nbsp; 
+    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/instagram.svg" title="Instagram" alt="Instagram" width="30" height="30"/>
   </a>
   <a href="https://andresaftari.medium.com/">
-    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/medium.svg" title="Medium" alt="Medium" width="30" height="30"/>&nbsp; 
+    <img src="https://github.com/andresaftari/andresaftari/blob/master/assets/medium.svg" title="Medium" alt="Medium" width="30" height="30"/>
   </a>
 </div>
