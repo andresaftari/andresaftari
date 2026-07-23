@@ -40,9 +40,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
-    <img src="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's GitHub stats" width="65%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
+    <img src="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's GitHub stats" width="65%" />
   </picture>
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=andresaftari&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
