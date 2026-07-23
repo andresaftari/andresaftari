@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/andresaftari" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/?username=andresaftari&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Andre%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's extended GitHub stats" width="50%" />
+    <img src="https://github-stats-extended.vercel.app/api/?username=andresaftari&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Andre%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's extended GitHub stats" width="50%" />
   </a>
 </p>
 
