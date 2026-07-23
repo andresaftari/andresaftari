@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/andresaftari" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's GitHub stats" width="65%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=andresaftari&show_icons=true&hide_border=true&count_private=true&commits_year=2026&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Andre's GitHub stats" width="65%" />
   </a>
   <!-- <a href="https://github.com/andresaftari" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresaftari&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" alt="Andre's top languages" width="48%" />
